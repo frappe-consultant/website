@@ -447,7 +447,6 @@ footer {
   background-color: rgba(17, 24, 39, 0.8);
   backdrop-filter: var(--glass-effect);
   border-top: 1px solid var(--border-glow);
-  padding: 3rem 0;
 }
 
 .footer-link {
