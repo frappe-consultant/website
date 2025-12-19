@@ -83,7 +83,7 @@ a {
   -webkit-backdrop-filter: var(--glass-effect); /* For Safari */
   z-index: 1000;
   transition: var(--transition-normal);
-  height: 80px;
+  height: 70px;
   padding-top: 5px;
   border-bottom: transparent;
 }
@@ -536,10 +536,10 @@ a:focus, button:focus {
 }
 
 #logo-img{
-  height: 60px;
+  height: 40px;
 }
  #logo-name{
-    height: 50px;
+    height: 40px;
     margin-top: 15px
  }
 
